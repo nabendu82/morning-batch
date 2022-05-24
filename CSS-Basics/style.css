@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch&display=swap');
+
+body{
+    background-color: #e6ffe6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-1{
+    background-color: lightpink;
+    padding: 10px;
+}
+
+
+h3 {
+    color: hsl(0, 100%, 40%);
+    background-color: bisque;
+    padding: 10px;
+}
+
+/* div{
+    font-size: 10px;
+} */
+
+p{
+    font-family: 'Smooch', Arial, Helvetica, sans-serif;
+    color: rgb(111, 5, 111);
+    background-color: lightcyan;
+    padding: 10px;
+    font-size: 2rem;
+    line-height: 1.8rem;
+}
+
+#second-p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(42, 6, 118);
+    background-color: lightcyan;
+    padding: 10px;
+    font-size: 1.6rem;
+    line-height: 1.4rem;
+}
+
